@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfractalup"]=self["webpackChunkfractalup"]||[]).push([[517],{81517:function(t,n,u){u.r(n),u.d(n,{default:function(){return c}});var e=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,n=t._self._c;return n("div",{},[n("h1",{staticClass:"text-white"},[t._v("This is an chage page")])])}],s=u(1001),l={},r=(0,s.Z)(l,e,a,!1,null,null,null),c=r.exports}}]);
+//# sourceMappingURL=517.b651cc69.js.map

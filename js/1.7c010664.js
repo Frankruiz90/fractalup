@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfractalup"]=self["webpackChunkfractalup"]||[]).push([[1],{14001:function(t,a,s){s.r(a),s.d(a,{default:function(){return r}});var u=function(){var t=this;t._self._c;return t._m(0)},n=[function(){var t=this,a=t._self._c;return a("div",{staticClass:"about"},[a("h1",{staticClass:"text-white"},[t._v("This is an image page")])])}],e=s(1001),l={},i=(0,e.Z)(l,u,n,!1,null,null,null),r=i.exports}}]);
+//# sourceMappingURL=1.7c010664.js.map
